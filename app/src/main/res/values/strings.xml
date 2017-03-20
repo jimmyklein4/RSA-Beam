@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSA Beam</string>
+    <string name="PRIVATE_KEY">edu.temple.tuf21842.rsabeam.PRIVATE_RSA_KEY</string>
+    <string name="PUBLIC_KEY">edu.temple.tuf21842.rsabeam.PUBLIC_RSA_KEY</string>
+</resources>
